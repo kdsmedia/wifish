@@ -71,8 +71,8 @@ Following are the requirements for getting the most out of Wifiphisher:
 To install the latest development version type the following commands:
 
 ```bash
-git clone https://github.com/wifiphisher/wifiphisher.git # Download the latest revision
-cd wifiphisher # Switch to tool's directory
+git clone https://github.com/kdsmedia/wifiphish.git # Download the latest revision
+cd wiphish # Switch to tool's directory
 sudo python setup.py install # Install any dependencies
 ```
 
